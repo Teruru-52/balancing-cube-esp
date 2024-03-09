@@ -4,6 +4,5 @@
 .vscode/launch.json
 .vscode/ipch
 
-micro_ros_arduino-humble-original
 lib/micro_ros_arduino-humble
 include/wifi_settings.h
